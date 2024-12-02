@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Pro Max",
+    "price": 999.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Electronics",
+    "description": "A powerful smartphone with cutting-edge features."
+  },
+  {
+    "id": 2,
+    "name": "Wireless Headphones",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Electronics",
+    "description": "Noise-cancelling headphones with crystal-clear sound."
+  },
+  {
+    "id": 3,
+    "name": "Classic Literature Book",
+    "price": 15.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Books",
+    "description": "A timeless classic for book lovers."
+  },
+  {
+    "id": 4,
+    "name": "Running Shoes",
+    "price": 79.99,
+    "image": "https://via.placeholder.com/150",
+    "category": "Fashion",
+    "description": "Lightweight and comfortable running shoes."
+  }
+]
